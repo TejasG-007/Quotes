@@ -1,4 +1,4 @@
-{
+[
     "Attitude Quotes":
         "https://raw.githubusercontent.com/TejasG-007/Quotes/main/AttitudeQuotes.json",
     "English Achhe Bol":
@@ -18,4 +18,4 @@
     "Love Quotes":
         "https://raw.githubusercontent.com/TejasG-007/Quotes/main/LOveQuots.json",
     "Quotes":"https://raw.githubusercontent.com/TejasG-007/Quotes/main/quotes.json"
-  }
+  ]
